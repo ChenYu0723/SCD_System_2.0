@@ -1,6 +1,8 @@
 # ITS with LSTM method.
 
+This project's data is metroData_ODflow_15.csv
 
+It is inflow and outflow of every station with 15 min.
 ## Code structure
 ```
 .
